@@ -28,5 +28,5 @@ class MainActivity fun main(){
     fish1.swim();
     fish1.eat();
     bird1.fly();
-    bird1.voice()
+    bird1.voice();
 }
